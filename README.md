@@ -1,2 +1,2 @@
-# wdio_mobile
-Simulate WebDriverIO for automated testing on Mobile Platform
+# 
+Simulate WebDriverIO for automated testing on Mobile Platform on Pilot Project HR Attendance on Development Stage
